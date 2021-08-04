@@ -65,4 +65,4 @@ It will help you find tutors without any other form of media and save you time a
 * [Laravel](https://laravel.com/) 
 
 
-**Live Website - [Here](https://devjewel01.github.io/Tutors/)**
+**Live Website - [Here](https://devjewel01.github.io/tutors/)**
