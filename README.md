@@ -8,14 +8,14 @@ Private tuition is very common in our society and it is benefiting a lot of stud
 ## Developed by
 | Name | ID |
 | ----  |  --- | 
-| Rasel | 119090 | 
-| Meher | 119090 | 
-| Jewel | 119090 | 
-| parvez | 119090 | 
-| Shanta | 119090 | 
+| Rasel Ahmed | 11909032 | 
+| Meheniger Alam | 11909035 | 
+| Jewel Nath | 11909037 | 
+| Shariar Parvez | 11909039 | 
+| Shanta Islam | 11909041 | 
 
 ## Maintanced by 
-* Our hounarable course teacher Saifur Rahman
+* Our hounarable course teacher [Md Saifur Rahman](https://www.facebook.com/saifur.rahman.1865)
   
 ## Looking for Students?
 
