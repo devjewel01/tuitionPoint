@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Contact US</title>
+</head>
+<style>
+    .container {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 90px 60px 1fr 140px;
+        grid-gap: 4px;
+    }
+    
+    .head {
+        background-color: rgb(31, 24, 24);
+        grid-column: 1 / -1;
+        list-style-type: none;
+        display: flex;
+        justify-content: end;
+        padding: 20px;
+    }
+    
+    li {
+        margin: 10px;
+        color: white;
+        border-radius: 20px;
+        border: 2px solid white;
+        padding: 8px;
+    }
+    
+    .foot {
+        background-color: rgb(145, 125, 125);
+        grid-column: 1 / -1;
+        color: white;
+        font-weight: bold;
+        font-size: 16px;
+        padding: 20px;
+    }
+    
+    .content {
+        background-color: rgb(220, 223, 228);
+        grid-column: 1 / -1;
+        display: flex;
+        justify-content: center;
+    }
+    
+    .menu {
+        background-color: rgb(16, 64, 92);
+        grid-column: 1 / -1;
+        display: flex;
+        padding: 10px;
+    }
+    
+    .ml {
+        list-style-type: none;
+        font-weight: bold;
+        margin: 10px;
+        border: none;
+        font-size: 20px;
+    }
+    
+    .contact {
+        margin: 30px;
+        padding: 20px;
+        background-color: rgb(219, 182, 182);
+        color: rgb(0, 0, 0);
+        font-weight: bold;
+        font-size: 20px;
+    }
+    
+    .details {
+        margin: 30px;
+        padding: 20px;
+        background-color: rgb(187, 167, 167);
+        min-width: 30%;
+        color: white;
+    }
+    
+    input,
+    label,
+    textarea {
+        margin: 14px;
+        padding: 12px;
+        border-radius: 30px;
+    }
+</style>
+
+<body>
+    <div class="container">
+        <div class="head">
+            <li style="border:none;margin-right:60%;font-size:24px;font-weight:bold;">TUITION POINT</li>
+            <li>01812344***</li>
+            <li>Login</li>
+            <li>Register</li>
+        </div>
+        <div class="menu">
+            <li class="ml">Home</li>
+            <li class="ml">Search</li>
+            <li class="ml">For Students</li>
+            <li class="ml">For Tutors</li>
+            <li class="ml">Resources</li>
+            <li class="ml">Contact Us</li>
+        </div>
+
+        <div class="content">
+
+            <div class="contact">
+                <h2 style="Color:rgb(0, 0, 0); text-align:center;">Contact Us Here</h2>
+                <hr/><br/>
+                <label>Your Name</label><br/>
+                <input type="text" class="form-control" size="50"><br/>
+                <label>Email</label><br/>
+                <input type="email" class="form-control" size="50"><br/>
+                <label>Message</label><br/>
+                <textarea rows="6" cols="50"> </textarea><br/>
+                <button type="submit" style="background-color:green;color:rgb(0, 0, 0);padding:15px;border-radius:30px;margin:10px;align-self: end;font-weight:bold;font-size:18px;">Send Message</button><br/></div>
+            <div class="details">
+                <p style="font-size:21px; font-weight:bold;color:yellow; border:2px solid rgb(0, 0, 0);padding:10px;">Telephone (weekdays 9:00am-5.00pm)</p>
+                <p>01812344321- General Enquaries </p>
+                <p style="font-size:21px; font-weight:bold; color:yellow;border:2px solid rgb(0, 0, 0);padding:10px;">Our Postal Address</p>
+                <div>
+                    <p>Tution Point</p>
+                    <p>Comilla Kandirpar,Comilla</p>
+
+                </div>
+                <p style="font-size:21px; font-weight:bold; color:yellow;border:2px solid rgb(0, 0, 0);padding:10px;">Email</p>
+                <div>
+                    <p>General Enquaries : support@TutionPoint.com</p>
+                    <pre>
+                        For Tution Point Members , Please use
+                        the contact form as we can validate your
+                        your details quicker.
+                    </pre>
+                    <p>Press/Advertising: media@TutionPoint.com</p>
+                </div>
+                <p style="font-size:21px; font-weight:bold; color:yellow;border:2px solid white;padding:10px;">VAT Registration Number</p>
+                <p>143 2351 5463</p>
+            </div>
+
+        </div>
+        <div class="foot">
+            <p>Copyright 2021-2025 Tution Point - All Rights Reserved</p>
+            <p>Privacy Policy | Copyright | Safeguarding | Terms of Service</p>
+        </div>
+</body>
+
+</html>
