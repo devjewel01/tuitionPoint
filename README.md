@@ -1,6 +1,6 @@
 ## Online Home Tutors Finder system
 
-**It's our 2nd year final project for Database Management System (course code-40_)**  
+**It's our 2nd year final project for Database Management System Corses(course code: ICT-407)**  
 
 ## Project Description
 Private tuition is very common in our society and it is benefiting a lot of students to boost their ability as well as a lot of tutors to have income support. But, there are some media nowadays takes unfair advantages of this situation when students and tutor suffer. I have developed a web-based platform where guardians or students who can find available teachers registered in the application, as well as teacher, will find potential students. All the necessary information are nicely organized here.
@@ -19,7 +19,7 @@ Private tuition is very common in our society and it is benefiting a lot of stud
   
 ## Looking for Students?
 
-<img style="float: left;" src="./images/student.png" width="120" height="120">
+<img style="float: left;" src="images/student.png" width="120" height="120">
 
 If you are a tutor and looking for potential students in Sylhet City then this application will help you to find registered guardians with the student details.
 
